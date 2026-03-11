@@ -1,0 +1,6 @@
+penalized_alliances:
+- ally: BJP
+  party: ADMK
+- ally: BJP
+  party: DMK
+penalty_factor: 0.65
